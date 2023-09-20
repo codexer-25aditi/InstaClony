@@ -2,7 +2,9 @@ import React from "react";
 
 const Form =()=>{
     return(
-        <div>Form</div>
+        <div className="bg-[#d2cfdf] h-screen w-full flex justify-center items-center">
+        <div className="h-[600px] w-[800px] bg-white"></div>
+        </div>
         
     )
 }
